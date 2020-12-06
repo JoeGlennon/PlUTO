@@ -1,0 +1,166 @@
+.navigation{
+	text-align: center;
+	background-color: #D1B888;
+	background-size: auto;
+	font-family: "Lucida Sans", Verdana, Arial, sans-serif;
+	font-size: 1em;
+	padding: 0.5em;
+}
+
+.navLink{
+	background-color: #442D7D;
+	color: #D1B888;
+	padding: 12px 25px;
+	text-align: center;
+	text-decoration:none;
+}
+
+.dangerLink{
+	background-color: red;
+	color: white;
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration:none;
+	border: 1px solid black;
+	font-size: 1em;
+}
+
+/*Loras "Purple": #442D7D*/
+/*Loras "Yellow": #D1B888*/
+
+/* Purple background for everything */
+.plutoBackground{
+	background-color: #442D7D;
+}
+
+/* Any table used that is not specified below */
+.tables{
+	border: 1px solid black;
+	text-align: center;
+	background-color: #D1B888;
+  background-size: auto;
+	font-family: "Lucida Sans", Verdana, Arial, sans-serif;
+	font-size: 1em;
+  padding: 0.5em;
+  margin-left: auto;
+  margin-right:auto;
+}
+
+.forms{
+	margin-left: 25%; 
+	margin-right: 25%;
+	border: 1px solid black;
+	text-align: left;
+	background-color: #D1B888;
+	background-size: auto;
+	padding: 1em;
+}
+
+.titles{
+  border: 1px solid black;
+	text-align: center;
+	background-color: #D1B888;
+  background-size: auto;
+	font-family: "Lucida Sans", Verdana, Arial, sans-serif;
+  padding: 0.5em;
+}
+
+
+/* Specifically for the information for upcoming shows table that is not the description or the reserve ticket button */
+.upcomingShowText{
+	font-weight: bold;
+	font-size: 30
+}
+
+/* Specifically for the Cancel Reservation section */
+.userCancelReservation{
+  border: 1px solid black;
+	text-align: center;
+  background-size: 800px;
+  background-color: #D1B888;
+  padding: 0.5em;
+}
+
+/* Specifically for the About Us section */
+.userAboutUsTable{
+	border: 1px solid black;
+	text-align: center;
+	background-color: #D1B888;
+	font-family: "Lucida Sans", Verdana, Arial, sans-serif;
+	font-size: 1em;
+  padding: 0.5em;
+  background-size: auto;
+}
+
+/* Specifically for the Create Account section */
+.plutoCreateAccount{
+	border: 1px solid black;
+	text-align: center;
+	background-color: #D1B888;
+	font-family: "Lucida Sans", Verdana, Arial, sans-serif;
+	font-size: 1em;
+  padding: 0.5em;	
+  background-size: auto;
+}
+
+/* Specifically for the Gallery section (Not the pictures)*/
+.gallerySection{
+	border: 1px solid black;
+  font-family: "Lucida Sans", Verdana, Arial, sans-serif;
+  font-size: 1em;
+  padding: 0.5em;
+}
+
+/* Specifically for the pictures in the Gallery section */
+.galleryImages{
+	height: 300px;
+	width: 300px;
+	object-fit:cover;
+}
+/*For home page images*/
+.upcomingShowingPic{
+	width:200px;
+	height:150px;
+	object-fit:cover;
+	
+}
+/*For home page showings*/
+.upcomingShowing{
+	text-align: center;
+	padding: 5px;
+	border-spacing: 10px;
+	margin:10px;
+	width: 375px;
+	height: auto;
+}
+
+
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
